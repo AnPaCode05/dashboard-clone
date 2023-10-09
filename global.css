@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* Colors */
+  --color-gray: #0d0d1c;
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-31xl: 50px;
+}
